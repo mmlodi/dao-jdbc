@@ -1,2 +1,3 @@
-# dao-jdbc
-Implementação de DAO 
+# Implementação da metodologia DAO (Data Access Object) com JDBC
+
+
